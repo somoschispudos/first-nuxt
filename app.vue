@@ -1,3 +1,3 @@
 <template>
-	<h1>Edwin</h1>
+	<h1>Edwin Orellana</h1>
 </template>
